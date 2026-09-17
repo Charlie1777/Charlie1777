@@ -1,24 +1,19 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== HERO IMAGE ===================== -->
 <p align="center">
-  <img src="./github-profile-header.png" alt="Shubham Kumar - AI & Data Science Portfolio" width="100%">
+  <img src="https://raw.githubusercontent.com/Charlie1777/Charlie1777/main/github-profile-header.png" alt="Shubham Kumar - AI & Data Science Portfolio" width="100%">
 </p>
 
 <!-- ===================== TYPING ===================== -->
 <p align="center">
-  <a href="https://github.com/Charlie1777">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+%7C+AI+Agents;Full+Stack+Developer;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing animation">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+%7C+AI+Agents;Full+Stack+Developer;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing animation">
 </p>
 
 <p align="center">
   <a href="https://github.com/Charlie1777">
-    <img src="https://img.shields.io/github/followers/Charlie1777?label=Followers&style=for-the-badge&logo=github&color=0d1117" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/Charlie1777?label=Followers&style=for-the-badge&logo=github&color=0d1117" alt="Followers">
   </a>
   <a href="https://github.com/Charlie1777?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-12-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
-  </a>
-  <a href="https://github.com/Charlie1777">
-    <img src="https://komarev.com/ghpvc/?username=Charlie1777&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile views">
+    <img src="https://img.shields.io/badge/Repositories-12-0d1117?style=for-the-badge&logo=github" alt="Repositories">
   </a>
 </p>
 
@@ -62,14 +57,9 @@ Core         → DSA • OOP • Computer Networks • OS
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask&theme=dark" alt="React Node Express Flask">
 </p>
 
-### Databases / Backend Tools
+### Database / Cloud / Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="MongoDB MySQL Firebase">
-</p>
-
-### Cloud / Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,vercel&theme=dark" alt="AWS Docker Git GitHub VS Code Vercel">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker,git,github,vscode,vercel&theme=dark" alt="MongoDB MySQL Firebase AWS Docker Git GitHub VS Code Vercel">
 </p>
 
 ---
@@ -152,12 +142,12 @@ Exploring spatio-temporal learning and machine learning methods for intelligent 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charlie1777&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie1777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charlie1777&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie1777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Charlie1777&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=Charlie1777&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak">
 </p>
 
 ---
@@ -165,7 +155,7 @@ Exploring spatio-temporal learning and machine learning methods for intelligent 
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Charlie1777/Charlie1777/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+  <img src="https://raw.githubusercontent.com/Charlie1777/Charlie1777/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
