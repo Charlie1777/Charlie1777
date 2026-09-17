@@ -93,16 +93,6 @@ Named Entity Recognition for biomedical text with comparison of NLP approaches a
 <tr>
 <td width="50%">
 
-### 💌 Digital Invitation Portal
-**Wedding Invitation Platform**
-
-A web platform for creating and managing digital invitations with RSVP tracking, guest management, and payment integration.
-
-**Stack:** React • Node.js • MongoDB
-
-</td>
-<td width="50%">
-
 ### 🧠 Spatio-Temporal AFML
 **Research Project**
 
