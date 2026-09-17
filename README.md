@@ -1,143 +1,195 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:001f3f,100:00e5ff&height=220&section=header&text=SHUBHAM%20KUMAR&fontSize=42&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full%20Stack%20Architect&descFontSize=18&descAlignY=58&fontColor=ffffff&stroke=00e5ff&strokeWidth=1" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=650&lines=Turning+ideas+into+intelligent+solutions...;Deep+Learning+%E2%80%A2+Generative+AI+%E2%80%A2+Agents;Scalable+Cloud+%26+Full-Stack+Architectures;Better+systems.+Smarter+solutions." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-00e5ff?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-GenAI%20%26%20RAG-ffd700?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Systems-00e5ff?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-ffd700?style=for-the-badge&logoColor=black" />
+<!-- ===================== HERO ===================== -->
+<p align="center">
+  <img src="./github-profile-header.png" alt="Shubham Kumar - AI & Data Science Portfolio" width="100%">
 </p>
 
-</div>
+<!-- ===================== TYPING ===================== -->
+<p align="center">
+  <a href="https://github.com/Charlie1777">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+%7C+AI+Agents;Full+Stack+Developer;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing animation">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Charlie1777">
+    <img src="https://img.shields.io/github/followers/Charlie1777?label=Followers&style=for-the-badge&logo=github&color=0d1117" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/Charlie1777?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-12-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  </a>
+  <a href="https://github.com/Charlie1777">
+    <img src="https://komarev.com/ghpvc/?username=Charlie1777&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile views">
+  </a>
+</p>
 
 ---
 
-### 🤖 System Diagnostics
+## 👨‍💻 About Me
+
+Hi! I'm **Shubham Kumar**, a **B.Tech student in Artificial Intelligence & Data Science**.
+
+I enjoy building practical software and AI systems that solve real-world problems. My current focus is on **Machine Learning, Deep Learning, Generative AI, RAG, AI Agents, Cloud Computing, and Full Stack Development**.
+
+```text
+AI/ML        → Machine Learning • Deep Learning • NLP
+GenAI        → LLMs • RAG • AI Agents
+Development  → React • Node.js • Express • Flask
+Data         → MongoDB • MySQL • Data Processing
+Cloud        → AWS • Vercel • Docker
+Core         → DSA • OOP • Computer Networks • OS
+```
+
+> **“Better systems. Smarter solutions. That's the goal.”**
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark" alt="Python C++ Java JavaScript">
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="TensorFlow PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge&logo=googlecloud&logoColor=white" alt="NLP">
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask&theme=dark" alt="React Node Express Flask">
+</p>
+
+### Databases / Backend Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="MongoDB MySQL Firebase">
+</p>
+
+### Cloud / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,vercel&theme=dark" alt="AWS Docker Git GitHub VS Code Vercel">
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="55%" valign="top">
-      <h4>⚡ Core Identity</h4>
-      <p>Final-year engineering undergrad specializing in <b>Artificial Intelligence & Data Science</b>. Passionate about engineering end-to-end intelligent systems, distributed architectures, and generative frameworks.</p>
-      <blockquote>
-        <i>"Better systems. Smarter solutions. That's the goal."</i>
-      </blockquote>
-      <p>📍 <b>Location:</b> India<br/>
-      🎓 <b>Degree:</b> B.Tech in AI & Data Science<br/>
-      💼 <b>Handle:</b> <a href="https://github.com/Charlie1777">@Charlie1777</a></p>
-    </td>
-    <td width="45%" valign="top">
-      <h4>🎯 Roadmap & Priorities (2026)</h4>
-      <ul>
-        <li>🔲 Advance Distributed GenAI & Autonomous Agents</li>
-        <li>🔲 Deepen System Design & High-Performance Computing</li>
-        <li>🔲 Scale Full-Stack Microservices to Production</li>
-        <li>🔲 Refine Algorithmic Optimization & Problem Solving</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🧭 Safario
+**Student Trip Planner**
+
+A student-focused trip planning platform for budget-friendly travel, accommodation, guides, and solo/group trips.
+
+**Stack:** React • Node.js • MongoDB
+
+</td>
+<td width="50%">
+
+### 🧬 Biomedical NER Explorer
+**NLP for Biomedical Text**
+
+Named Entity Recognition for biomedical text with comparison of NLP approaches and entity extraction.
+
+**Stack:** Python • Flask • SciSpace
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💌 Digital Invitation Portal
+**Wedding Invitation Platform**
+
+A web platform for creating and managing digital invitations with RSVP tracking, guest management, and payment integration.
+
+**Stack:** React • Node.js • MongoDB
+
+</td>
+<td width="50%">
+
+### 🧠 Spatio-Temporal AFML
+**Research Project**
+
+Exploring spatio-temporal learning and machine learning methods for intelligent EV charging-station applications.
+
+**Stack:** Python • Machine Learning • Deep Learning
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🛠️ Tech Arsenal
+## 📚 Currently Learning
 
-<div align="center">
-
-**Languages**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Machine Learning & Data Intelligence**<br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-
-**Web & Cloud Architecture**<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
+- 🧩 DSA & Problem Solving
+- 🧠 Machine Learning & Deep Learning
+- ✨ Generative AI & LLMs
+- 🤖 RAG & AI Agents
+- ☁️ AWS & Cloud Fundamentals
+- 🌐 Computer Networks & Operating Systems
 
 ---
 
-### 🚀 Featured Deployments
+## 🎯 2026 Goals
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧭 Safario</h4>
-      <p><i>Smart Student Trip Planner Platform</i></p>
-      <p>A travel planning framework tailored for budget travelers, featuring interactive routing, accommodations, and companion sync.</p>
-      <code>React</code> <code>Node.js</code> <code>MongoDB</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧬 Biomedical NER Explorer</h4>
-      <p><i>NLP Entity Recognition System</i></p>
-      <p>Specialized biomedical text extraction parsing complex clinical entities, comparing modern deep learning language backbones.</p>
-      <code>Python</code> <code>Flask</code> <code>Transformers</code> <code>SciSpacy</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💌 Digital Invitation Portal</h4>
-      <p><i>Event & RSVP Architecture</i></p>
-      <p>Custom digital staging platform handling guest management, custom RSVP dynamics, and live automated checkout logic.</p>
-      <code>React</code> <code>Express</code> <code>MongoDB</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 Spatio-Temporal AFML</h4>
-      <p><i>Research Framework</i></p>
-      <p>Deep neural pipelines analyzing multidimensional spatio-temporal dynamics for high-precision inference and classification.</p>
-      <code>PyTorch</code> <code>Deep Learning</code> <code>Python</code>
-    </td>
-  </tr>
-</table>
+```text
+[✓] Build more GenAI projects
+[✓] Improve DSA skills
+[→] Learn RAG & AI Agents
+[→] Improve Cloud & AWS skills
+[→] Build a strong project portfolio
+```
 
 ---
 
-### 📊 Telemetry & Performance
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charlie1777&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie1777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Charlie1777&show_icons=true&theme=tokyonight&bg_color=0b0f19&title_color=00e5ff&text_color=94a3b8&icon_color=ffd700&border_color=00e5ff33&hide_border=false" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Charlie1777&theme=tokyonight&background=0b0f19&ring=00e5ff&fire=ffd700&currStreakNum=00e5ff&border=00e5ff33" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charlie1777&bg_color=0b0f19&color=00e5ff&line=ffd700&point=ffffff&area=true&hide_border=true" width="97%" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Charlie1777&theme=tokyonight&hide_border=true" alt="GitHub streak">
+</p>
 
 ---
 
-### 🌐 Uplink Channels
+## 🐍 Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Charlie1777/Charlie1777/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Charlie1777-00e5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Charlie1777)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-ffd700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://github.com/Charlie1777)
+---
 
-<br/>
+## 🌐 Connect With Me
 
-```ascii
-      ___       __          __           ___          ___ 
-|  | |__  |    /  ` /  \  |\/| |__     |   |__| |__  |__  
-|/\| |___ |___ \__, \__/  |  | |___    |___|  | |___ |___
+<p align="center">
+  <a href="https://github.com/Charlie1777">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Learn • Build • Deploy • Repeat ⚡</b>
+</p>
+
+<p align="center">
+  <i>AI × DATA × IMPACT</i>
+</p>
